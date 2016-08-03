@@ -1,1 +1,41 @@
-holler word
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	<link type="text/css" rel="stylesheet" href="style/reset.css">
+		<link type="text/css" rel="stylesheet" href="style/main.css" />
+	</head>
+	<body>
+		<div class="headerBar">
+			<div class="topBar">
+				<div class="">
+					<div class="leftArea">
+						<a href="#" class="collection">收藏慕课</a>
+					</div>
+					<div class="rightArea">
+						欢迎来到慕课网 <a href="#">[登录]</a><a href="#">[免费注册]</a>
+					</div>
+				</div>
+			</div>
+			<div class="logoBar">
+				<div class="comWidth">
+					<div class="logo">
+						<a href="#"><img src="images/down.png" alt="慕课网"></a>
+					</div>
+					<div class="search_box">
+						<input type="text" class="serch_text" />
+						<input type="button" value="搜索" class="search_btn" />
+					</div>
+					<div class="shopCar">
+						<span class="shopText">购物车</span>
+					</div>
+				</div>
+			</div>
+			<div class="">
+				
+			</div>
+		</div>
+	</body>
+</html>
+
